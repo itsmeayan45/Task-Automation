@@ -24,7 +24,7 @@ A modern, user-friendly dashboard for automating task management in Google Sheet
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/task-automation.git
+   git clone https://github.com/itsmeayan45/task-automation.git
    cd task-automation
    ```
 
